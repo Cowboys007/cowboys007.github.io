@@ -46,3 +46,63 @@ display_decimals=7
 regulated=true
 is_asset_anchored=true
 is_unlimited=false
+
+[[CURRENCIES]]
+code="LIB1"
+name="LIB1"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="LIB1 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="LIB2"
+name="LIB2"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="LIB2 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="LIB3"
+name="LIB3"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="LIB3 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="LIB4"
+name="LIB4"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="LIB4 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
