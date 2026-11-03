@@ -121,3 +121,63 @@ display_decimals=7
 regulated=true
 is_asset_anchored=true
 is_unlimited=false
+
+[[CURRENCIES]]
+code="BL01"
+name="BL01"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="BL01 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="BL02"
+name="BL02"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="BL02 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="BL03"
+name="BL03"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="BL03 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
+
+[[CURRENCIES]]
+code="BL04"
+name="BL04"
+issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
+desc="BL04 are ready to become the next crypto millionaire"
+conditions="Withdrawal fees apply"
+image="https://cowboys007.github.io/img/LIBRE.png"
+status="live"
+anchor_asset="BTC"
+anchor_asset_type="crypto"
+display_decimals=7
+regulated=true
+is_asset_anchored=true
+is_unlimited=false
